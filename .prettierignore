@@ -1,5 +1,0 @@
-dist/*
-*.json
-*.md
-yarn.lock
-**/*.js
