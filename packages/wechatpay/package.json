@@ -1,0 +1,10 @@
+{
+  "name": "@repo/wechatpay",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+  },
+  "devDependencies": {
+
+  }
+}
