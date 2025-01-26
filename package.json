@@ -8,12 +8,20 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "dependencies": {
+    "@types/bun": "^1.2.0",
     "crypto": "^1.0.1",
-    "node-forge": "^1.3.1"
+    "nanoid": "^5.0.9",
+    "node-forge": "^1.3.1",
+    "qrcode.react": "^4.2.0"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.0",
     "@types/node-forge": "^1.3.11",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.1",
     "prettier": "^3.2.5",
+    "tailwind-variants": "^0.3.1",
+    "tailwindcss": "^4.0.0",
     "turbo": "^2.3.3",
     "typescript": "5.5.4"
   },
