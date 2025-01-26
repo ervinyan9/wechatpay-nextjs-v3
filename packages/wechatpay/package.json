@@ -1,6 +1,6 @@
 {
   "name": "wechatpay-nextjs-v3",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "微信支付v3版本工具包Next.js版本",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
