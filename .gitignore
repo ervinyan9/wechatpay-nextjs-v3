@@ -39,3 +39,4 @@ yarn-error.log*
 
 .idea
 package-lock.json
+/apps/web/app/api/payment/config.ts
